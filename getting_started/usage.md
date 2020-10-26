@@ -11,7 +11,7 @@ nav_order: 2
 ## Quick start guide
 > This assumes you have a working OpenBikeSensor. [If not start here](/readme.md)
 
-In case you might get a OpenBikeSensor, you should do some first steps.
+In case you might get an OpenBikeSensor, you should do some first steps.
 
 1. Check, if your handlebar fits the OpenBikeSensor's display/button holder.  
 There are basically two different kinds of handlebars: thinner ones, with a 25,4mm diameter and the other ones, with a 31.8mm diameter. You might create some kind of adapter, if the device is designed for 31,8mm and you have a 25,4mm handlebar, but the other way around is not possible
