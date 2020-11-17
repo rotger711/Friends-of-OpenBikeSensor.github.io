@@ -66,7 +66,7 @@ Oder: mit Stiften auf eine Lötunterlage drücken
 
 Gewinkelte Stiftleisteablängen: 4/6pins
 
-Stifte an SD\-Modul löten
+Stifte an SD-Modul löten
 
 GPS noch NICHT löten
 
@@ -74,7 +74,7 @@ GPS noch NICHT löten
 
 ## Part 5: Kondensatoren, Diode und Sicherung
 
-C2 und C3: Polungbeabten
+C2 und C3: Polung beachten
 
 Diode: Polung beachten
 
@@ -83,6 +83,9 @@ Diode: Polung beachten
 ## Part 6: Steckerbuchsen anlöten (Batterie, Schalter, Display)
 
 Von oben stecken\, von unten anlöten
+Display-Stecker mit Aussparungen zum Board hin einstecken
+Polung für Schalter-Stecker egal
+Batterie-Stecker: Arretierungsstift Richtung F1
 
 <img src="images/OpenBikeSensor_PCB_v00.03.10_Building_short10.jpg" alt="Alternative Text" class="inline"  />
 
@@ -105,6 +108,7 @@ Pins vorsichtig nach oben umbiegen
 Stecken\, Board umdrehen
 
 Gerade anlöten
+Auf Abstand zwischen den Boards achten (ggf. Abstandhalter einklemmen)
 
 <img src="images/OpenBikeSensor_PCB_v00.03.10_Building_short14.jpg" alt="Alternative Text" class="inline"  />
 
@@ -120,7 +124,7 @@ Weiß – SDA
 
 Grau – SCL
 
-Nur 1\-2mmabisolieren
+Nur 1\-2mm abisolieren
 
 ## Part 11: Displays mit Knopf löten
 
